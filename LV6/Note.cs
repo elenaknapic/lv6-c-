@@ -29,6 +29,6 @@ namespace LV6
             Console.WriteLine(this.GetRule('-'));
             Console.WriteLine(this.Text);
             Console.WriteLine(this.GetRule('='));
-        }
+        }
     }
 }
