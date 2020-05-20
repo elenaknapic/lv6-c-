@@ -65,13 +65,13 @@ namespace LV6
 
 
             //Z4
-            //BankAccount bank = new BankAccount("Knapic", "Zvonimirovac", 919191919);
+            //BankAccount bank = new BankAccount("Knapic", "Slatina", 19827728);
             //BankAccountMemento bankMemento = bank.StoreState();
-            //Console.WriteLine("Balance is " + bank.Balance);
-            //bankAccount.UpdateBalance(-500);
-            //Console.WriteLine("Balance is " + bank.Balance);
-            //bankAccount.RestoreState(bankMemento);
-            //Console.WriteLine("Balance is " + bank.Balance);
+            //Console.WriteLine("Balance: " + bank.Balance);
+            //bank.UpdateBalance(-500);
+            //Console.WriteLine("Balance: " + bank.Balance);
+            //bank.RestoreState(bankMemento);
+            //Console.WriteLine("Balance: " + bank.Balance);
 
             //Console.WriteLine("\n");
 
