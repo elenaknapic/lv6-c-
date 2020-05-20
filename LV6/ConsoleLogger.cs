@@ -15,7 +15,6 @@ namespace LV6
             Console.WriteLine(new string('=', message.Length));
             Console.WriteLine(message);
             Console.WriteLine(new string('=', message.Length) + "\n");
-        }
-    
+        }
     }
 }
