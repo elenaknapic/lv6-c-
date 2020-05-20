@@ -52,7 +52,7 @@ namespace LV6
             //}
 
             //Z3
-            //var datum = new DateTime(2018, 8, 27, 33, 3, 3);
+            //var datum = new DateTime(2018, 8, 27, 11, 3, 3);
             //ToDoItem item = new ToDoItem("to do", "just do it", datum);
             //Console.WriteLine(item.ToString());
             //CareTaker care = new CareTaker();
